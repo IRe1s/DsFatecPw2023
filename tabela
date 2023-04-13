@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>table</title>
+</head>
+  <style>
+table, th, td {
+  border: 3px solid #650D1B;
+  border-collapse: collapse;
+  margin: 100px;
+  padding: 45px;
+    }
+</style>
+<body>
+  <h1> tabela <h1>
+  <table>
+    <tr bgcolor="#D282A6">
+      <th colspan="4">1</th>
+    </tr>
+    <tr>
+      <th rowspan="4" bgcolor="#3A3238">2</th>
+      <th colspan="2" bgcolor="#726E97">3</th>
+      <th rowspan="4" bgcolor="#00B295">4</th>
+    </tr>
+    <tr>
+      <th bgcolor="#CAB7A2">5</th>
+      <th rowspan="2" bgcolor="#644536">6</th>
+    </tr>
+    <tr>
+      <th bgcolor="#650D1B">7</th>
+    </tr>
+    <tr>
+      <th colspan="2" bgcolor="#C1DF1F">8</th>
+    </tr>
+  </table>
+  
+  <p> cores utilizadas(do 8 ao 1) :#C1DF1F, #650D1B, #644536, #CAB7A2, #00B295, #726E97, #3A3238, #D282A6
+</body>
+</html>

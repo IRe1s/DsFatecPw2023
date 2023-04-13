@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Acróstico</title>
+</head>
+<body>
+  <h1> Atividade de PW I</h1>
+  <p style="font-size: 30px">acróstico
+<hr>
+  <p  style="color:#63768D; font-size: 50px"> 
+    I 
+    <a style="color:#554971; font-size:25px">ntelectual </a>
+    
+    <P style="color:#F7567C; font-size: 50px"> 
+    A <a style="color:#F71735; font-size:25px">bstrato </a>
+      
+      <P style="color:#766486; font-size: 50px"> 
+    N <a style="color:#99C24D; font-size:25px">obre </a>
+</body>
+</html>
